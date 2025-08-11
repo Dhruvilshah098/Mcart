@@ -1,4 +1,4 @@
-import AppLayout from "./Layout/appLayout";
+import AppLayout from "./Layout/AppLayout";
 import "./App.scss";
 import List from "./List/List";
 
